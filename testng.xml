@@ -1,0 +1,8 @@
+<suite name="Suite1" verbose="1" parallel = "methods" threadcount = "2">
+ 
+  <test name="DockerDemo">
+    <classes>
+      <class name="com.paypaldocker.DockerHandsOn"/>
+    </classes>
+  </test>
+</suite>
